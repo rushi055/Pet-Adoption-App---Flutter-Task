@@ -107,20 +107,6 @@ flutter build web --release   # Web
 
 ---
 
-## 🧪 Testing
 
-```bash
-flutter test                           # All tests
-flutter test --coverage              # With coverage
-flutter test test/unit/              # Unit tests only
-flutter test test/widget/            # Widget tests only
-```
-
----
-
-
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/pet-adoption-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/pet-adoption-app?style=social)
 
 </div>
