@@ -77,18 +77,6 @@ flutter build web --release   # Web
 🌐 RESTful APIs + JSON Models
 ```
 
----
-
-## 📸 Screenshots
-
-<div align="center">
-<img src="https://via.placeholder.com/250x500/FF6B6B/FFFFFF?text=🏠+Home" width="180"/>
-<img src="https://via.placeholder.com/250x500/4ECDC4/FFFFFF?text=📋+Details" width="180"/>
-<img src="https://via.placeholder.com/250x500/45B7D1/FFFFFF?text=⭐+Favorites" width="180"/>
-<img src="https://via.placeholder.com/250x500/96CEB4/FFFFFF?text=📚+History" width="180"/>
-</div>
-
----
 
 ## ✅ Requirements Completed
 
