@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Bella",
+    "type": "Dog",
+    "age": 2,
+    "price": 120,
+    "image": "https://imgs.search.brave.com/vQEKVIfm1fC5zE_GXbfNio5UI31VTaTlYW2RQQ-VlgY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9w/dXJlYnJlZC1kb2ct/YmVpbmctY3V0ZS1z/dHVkaW9fMjMtMjE0/OTAxNjg5Mi5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw",
+    "description": "Friendly and playful golden retriever."
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "type": "Dog",
+    "age": 3,
+    "price": 100,
+    "image": "https://imgs.search.brave.com/KmmMVvWm94jATfLZpjN_-qkiIOD9ZT3DIfI3MrwZYLU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/Y3JlYXR1cmVhbmRj/b2FnZW5jeS5jb20v/dXBsb2Fkcy8yMDIy/LzAyL0RvZ0ZhY3Rz/LTIuanBn",
+    "description": "Energetic beagle who loves walks."
+  },
+  {
+    "id": 3,
+    "name": "Luna",
+    "type": "Dog",
+    "age": 1,
+    "price": 80,
+    "image": "https://imgs.search.brave.com/oRerGgWRCY0c8sD_yecWjJP_RTYLKg7u1LI5-NFohqQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2RjLmdvdi9oZWFs/dGh5LXBldHMvbWVk/aWEvaW1hZ2VzLzIw/MjQvMDQvR2V0dHlJ/bWFnZXMtNTk4MTc1/OTYwLWN1dGUtZG9n/LWhlYWRzaG90Lmpw/Zw",
+    "description": "Curious and affectionate tabby cat."
+  },
+  {
+    "id": 4,
+    "name": "Charlie",
+    "type": "Dog",
+    "age": 4,
+    "price": 110,
+    "image": "https://imgs.search.brave.com/ZlgI3Yvfa5f6LP37JXPVBYWTVTYU1PJSztemC_J_1PU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93ZWxzaC1jb3Jn/aS1wZW1icm9rZS1k/b2ctc3RpY2tpbmct/b3V0LXRvbmd1ZS1p/c29sYXRlZF8yNjQx/OTctMjExMi5qcGc_/c2VtdD1haXNfaHli/cmlkJnc9NzQw",
+    "description": "Loyal labrador, great with kids."
+  },
+  {
+    "id": 5,
+    "name": "Lucy",
+    "type": "Dog",
+    "age": 2,
+    "price": 90,
+    "image": "https://imgs.search.brave.com/usAqkE67DcHOk6cKqY4KdP5T6Safu24Ax0ZkuiroWg8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wZXQt/aGVhbHRoLWNvbnRl/bnQtbWVkaWEuY2hl/d3kuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2LzA0/MjAyMDM4L2N1dGUt/ZG9nLWJyZWVkcy0x/MDI0eDY4My5qcGc",
+    "description": "Playful kitten, loves to chase toys."
+  },
+  {
+    "id": 6,
+    "name": "Rocky",
+    "type": "Dog",
+    "age": 5,
+    "price": 95,
+    "image": "https://imgs.search.brave.com/hH9oV7c_NwgOZc0AiTMjbqVLEX4u5ToczovfiGYLw9c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wZXQt/aGVhbHRoLWNvbnRl/bnQtbWVkaWEuY2hl/d3kuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA2LzA0/MTk0MzA4L05vdmEt/U2NvdGlhLUR1Y2st/VG9sbGluZy1SZXRy/aWV2ZXItLXNjYWxl/ZC5qcGVn",
+    "description": "Calm bulldog, perfect for apartments."
+  },
+  {
+    "id": 7,
+    "name": "Milo",
+    "type": "Dog",
+    "age": 3,
+    "price": 85,
+    "image": "https://imgs.search.brave.com/K-LFHcJMREY4z5lXtCWwUHeVumybYoXfXwMN1jL5RAA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU4LzU4/Lzc1LzU4NTg3NWFj/YWI1N2M2ZmIyZTUz/ODBmZDAwYTVmYjY4/LmpwZw",
+    "description": "Gentle and quiet, loves cuddles."
+  },
+  {
+    "id": 8,
+    "name": "Daisy",
+    "type": "Dog",
+    "age": 2,
+    "price": 130,
+    "image": "https://imgs.search.brave.com/WvoEPFfWtn98QfVVnx3bHC3w5l4qd0qq1WtI4nNKGSY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDMv/NTk1LzUzMC9zbWFs/bC9jdXRlLWRvZy1p/bi1hLXN1bnNoaW5l/LWRheS1waG90by5q/cGc",
+    "description": "Smart border collie, very active."
+  },
+  {
+    "id": 9,
+    "name": "Simba",
+    "type": "Dog",
+    "age": 4,
+    "price": 70,
+    "image": "http://imgs.search.brave.com/WTxx5gThr5fiTw6VHagDRE8llL_yYjpB4OxE16no1co/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnJlZWltYWdl/cy5jb20vaW1hZ2Vz/L2xhcmdlLXByZXZp/ZXdzL2NlNy9oYXBw/eS1ibGFjay1kb2ct/MDQxMC01NzAxNTc5/LmpwZz9mbXQ",
+    "description": "Majestic Maine Coon, very fluffy."
+  },
+  {
+    "id": 10,
+    "name": "Cooper",
+    "type": "Dog",
+    "age": 1,
+    "price": 140,
+    "image": "http://imgs.search.brave.com/cEpzi8tYv_5dLNpZl7bRTps86ClIcaYcGBK0CVEbj7Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZnJlZWltYWdl/cy5jb20vaW1hZ2Vz/L2xhcmdlLXByZXZp/ZXdzLzFiZi9oYXBw/eS1kb2ctYnktZmly/ZS0wNDEwLTU2OTg2/MjguanBnP2ZtdA",
+    "description": "Young and energetic husky."
+  }
+
+]
